@@ -1,0 +1,62 @@
+title: Git
+desc: 
+
+
+q: версия
+a: 
+git --version
+#
+
+
+q: задать свое имя
+a: 
+git config --global user.name "ваше имя"
+#
+
+q: задать почтовый адрес
+a: 
+git config --global user.email адрес
+#
+
+
+q: to check configuration (user name etc..)
+a: 
+git config --global --list
+#
+
+q: создать открытый и закрытый ключи
+a: 
+../Users/User/.ssh
+
+программа ssh-keygen
+#
+
+
+q: скопировать ssh ключ в буфер
+a: 
+clip < ~/.ssh/id_rsa.pub
+
+#
+
+q: проверить успешность аутитентификации на github по ssh ключу
+a: 
+ssh -T git@github.com
+#
+
+q: 
+a: 
+#
+
+q: 
+a: 
+#
+
+
+q: 
+a: 
+#
+
+q: 
+a: 
+#
+
