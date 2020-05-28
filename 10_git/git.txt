@@ -111,8 +111,9 @@ a:
 git remote add new-rep-name git@github.com:your-repo.git
 #
 
-q: 
+q: переместить файл в другую папку
 a: 
+git mv git.txt 10_git
 #
 
 q: 
