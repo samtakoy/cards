@@ -1,1 +1,8 @@
-10_git/git.txt
+{
+
+"files":
+[
+{"path":"10_git/git.txt", "v":1}
+]
+
+}
