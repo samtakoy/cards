@@ -2,7 +2,7 @@
 
 "files":
 [
-{"path":"10_git/git.txt", "v":1}
+{"path":"10_git/git.txt", "anchor":"10_git/git.txt", "v":1}
 ]
 
 }
